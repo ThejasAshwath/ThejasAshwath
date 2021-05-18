@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Thej
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently Working as a Software Developer for CronJ, Bengaluru (India)
+- 📫 You can reach me via LinkedIn (www.linkedin.com/in/ThejasAshwath444)
